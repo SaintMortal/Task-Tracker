@@ -10,10 +10,6 @@ public class Task {
     private String createdAt;
     private String updatedAt;
     
-    // public boolean equals(Task task)
-    // {
-    //     return this.status == task.status;
-    // }
 
     public Task(int id, String description)
     {
@@ -79,3 +75,4 @@ public class Task {
     }
 
 }
+
